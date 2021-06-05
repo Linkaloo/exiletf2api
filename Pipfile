@@ -9,7 +9,6 @@ flask-restful = "*"
 requests = "*"
 pillow = "*"
 python-dotenv = "*"
-flask-apscheduler = "*"
 
 [dev-packages]
 
